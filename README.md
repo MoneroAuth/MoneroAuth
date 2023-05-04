@@ -7,7 +7,7 @@ Because of the complexity involved in public key cryptography and key management
 
 To enable the ease-of-use, we have integrated the [Matrix protocol](https://matrix.org/), that provides decentralized, end-to-end encrypted messaging services, with the [Monero protocol](https://www.getmonero.org/), to deliver a Self-Sovereign Identity Assistant that we call authbot.
 
-The result is an easy-to-use solution for authentication to digital and physical resources, even anonymous authentication to digital and physical resources. The protocol enables custom authorization that, when combined with authentication, allows for the specification of customized policies for resource management.
+The result is an easy-to-use solution for authentication to digital and physical resources, even anonymous authentication to digital and physical resources. The protocol enables for custom authorization that, when combined with authentication, allows for the specification of customized policies for resource management.
 
 With MoneroAuth solutions, users are able to logon to multiple web sites, open physical doors, and control physical devices all with a single open source, permissionless, digital ID.
 
