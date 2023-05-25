@@ -1,1 +1,1 @@
-**MoneroAuth digital resource use cases.**
+**MoneroAuth Digital Resource Use Cases.**
