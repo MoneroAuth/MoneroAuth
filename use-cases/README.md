@@ -14,3 +14,5 @@
 + etc.
 
 **authbot** – an automated MoneroAuth personal assistant providing public key cryptography and key management services over a private, end-to-end encrypted messaging network. The communications network currently utilized is the [Matrix](https://matrix.org/), open network for secure, decentralized communication.
+
+The *authbot* also supports a dictionary of commands used for secure, automated resource management.
