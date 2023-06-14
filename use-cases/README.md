@@ -13,4 +13,4 @@
         ◦ garage-door opener
         ◦ etc.
 
-**authbot** – an automated MoneroAuth personal assistant providing public key cryptography and key management services over a private, end-to-end encrypted messaging network. The communications network currently utilized is the Matrix, open network for secure, decentralized communication.
+**authbot** – an automated MoneroAuth personal assistant providing public key cryptography and key management services over a private, end-to-end encrypted messaging network. The communications network currently utilized is the [Matrix](https://matrix.org/), open network for secure, decentralized communication.
