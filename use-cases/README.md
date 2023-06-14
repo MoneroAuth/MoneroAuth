@@ -1,6 +1,6 @@
 **MoneroAuth Use Cases**
 
-**Actors**
+**Actors:**
 
 **Controller** – The entity that initiates the use case by taking action and sending the first messge. This is usually an individual human being requesting authentication/authorization to use a resource. Machines or Resources (below) can also play the role of Controller.
 
