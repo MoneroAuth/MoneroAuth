@@ -11,4 +11,4 @@ The result is an easy-to-use solution for authentication to digital and physical
 
 With MoneroAuth solutions, users are able to logon to multiple web sites, open physical doors, and control physical devices all with a single open source, permissionless, digital ID.
 
-A quick [video demonstration](https://moneroauth.org/videos/MoneroAuth-quick-demo.m4v) of securely authenticating to a web site using MoneroAuth
+A quick [video demonstration](https://moneroauth.org/videos/WebAuth-take2.m4v) of securely authenticating to a web site using MoneroAuth
