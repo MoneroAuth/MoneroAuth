@@ -2,7 +2,7 @@
 
 **Actors:**
 
-**Controller** – The entity that initiates the use case by taking action and sending the first messge. This is usually an individual human being requesting authentication/authorization to use a resource. Machines or Resources (below) can also play the role of Controller.
+**Controller** – The entity that initiates the use case by taking action and sending the first message. This is usually an individual human being requesting authentication/authorization to use a resource. Machines or Resources (below) can also play the role of Controller.
 
 **Resource Manager** – The entity assigned to manage digital/physical resources a.k.a The Gatekeeper. Resource Managers are responsible for authenticating and authorizing entities to access resources under its control.
 
