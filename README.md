@@ -11,6 +11,8 @@ The result is an easy-to-use solution for authentication to digital and physical
 
 With MoneroAuth solutions, users are able to logon to multiple web sites, open physical doors, and control physical devices all with a single open source, permissionless, digital ID.
 
+**Help Fund Development**
+
 You can help fund development by donating Monero (XMR) to address: 84oVrBSsmn48d4gqpBa61zcMcSkPjFKBE45g9CHM723eakiA8L5w8Vx6T84drLU5rjZRnz25rm1ZQhWHBQCL23yUAMVm7ZL
 
 # Videos
